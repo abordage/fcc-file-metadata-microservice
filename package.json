@@ -1,0 +1,26 @@
+{
+  "name": "fcc-file-metadata-microservice",
+  "version": "0.0.1",
+  "description": "API project for freeCodeCamp",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.12.4",
+    "multer": "^1.4.5-lts.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abordage/fcc-file-metadata-microservice.git"
+  },
+  "author": "Pavel Bychko <box@abordage.dev>",
+  "homepage": "https://abordage.dev",
+  "license": "MIT"
+}
